@@ -4,7 +4,7 @@ from threading import *
 import time
 from graph import Graph
 
-source = "E:/map.bmp"
+source = "./images/map.bmp"
 max_pixel_value = 765
 window_size = (250, 250)
 
